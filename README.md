@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Will Almozard</h1>
-<h3 align="center">an aspiring frontend developer from Washington, DC</h3>
+<h1 align="center">Hi 👋, my name is Will Almozard</h1>
+<h3 align="center">I am a full-stack developer from Washington, DC</h3>
 
-- 🔭 I’m currently working on [my graduation project - TripleTen's full stack final project](https://github.com/Wyllyumm/stage-1-frontend-api)
+- 🔭 I’m currently working on [the backend to my recently completed final project]([(https://github.com/Wyllyumm/NewsExplorer_backend)])
 
-- 🌱 I’m currently learning **to get certified as a Software Engineer**
+- 🌱 I’m currently refining my skills in both coding languages react.js and express.js.
 
 - 📫 How to reach me **walmozard@hotmail.com/ 202-621-4500**
 
