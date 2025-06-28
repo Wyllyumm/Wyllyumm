@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Will Almozard</h1>
-<h3 align="center">I am a full-stack developer from Washington, DC</h3>
+<h3 align="center">I am a Front-End Engineer from Washington, DC</h3>
 
 - 🔭 I’m currently working on [the backend to my recently completed final project]([(https://github.com/Wyllyumm/NewsExplorer_backend)])
 
